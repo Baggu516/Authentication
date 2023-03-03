@@ -1,0 +1,14 @@
+.nav{
+  margin-left: 80%;
+  display:flex;
+  word-spacing: 5px;
+  margin-top: 10px;
+  padding: 5px;
+  background-color: aqua;
+}
+h2{
+  margin: 15px;
+}
+.App{
+  background-color: aqua;
+}
